@@ -2,7 +2,7 @@
   </h1>
 <h3 align="center">Mobile Application Developer from Turkey</h3>
 
-- 🔭  I’m currently working on **flutter**
+- 🔭  I’m currently working on **Flutter**
 
 - 🌱  I’m currently learning **Swift**
 
