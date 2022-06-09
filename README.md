@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="40px"/>, I'm Enes <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" style="pointer-events:none">
+<h1 align="center">Hi 👋, I'm Enes <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" style="pointer-events:none">
   </h1>
 <h3 align="center">Mobile Application Developer from Turkey</h3>
 
